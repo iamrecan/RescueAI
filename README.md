@@ -65,5 +65,5 @@ Thanks to the Mobile Application Developed with Flutter, it is aimed that the te
 The map used in the application was created using API's provided by Google Maps Platform.
 
 <p align="center">
-  <img width="400" src="https://github.com/iamrecan/RescueAI/blob/master/RescueAI-demo.gif"><span>RescueAI Demo</span>
+  <img width="400" src="https://github.com/iamrecan/RescueAI/blob/master/RescueAI-demo.gif"><span></span>
 </p>
